@@ -5,7 +5,7 @@ Welcome to a simple game I made for my university assignment about game coding u
 I've had a strong passion for rhythm-based video games, especially a game called osu!, which introduced me to many banger music that gives me motivation to keep working, and this assignment gives me the best chance to try to recreate that has been an important part of my life.
 ## Gameplay
 - The gameplay is as simple as aiming at the square and click it when they appear on the screen at a random location, and the game will end if the time between two clicks exceeds 0.727 seconds.
-- There is a **EVEN HARDER** mode implemented in the game that cuts down the area of the square to only 25% that of the original square, and shortens the time between 2 clicks to only 0.5 seconds. This will be the true test to your aiming skill and reaction speed. 
+- There is a **EVEN HARDER** mode implemented in the game that cuts down the area of the square to only 25% that of the original square. This will be the true test to your aiming skill. 
 - And if you had enough with this game, there is a mode that will help relieve your anger, which is called **"quit"**. This mode will help you quit the game and you can spend your time on other things in your life instead of playing games.
 ## Features
 - Two game mode, Normal and **Hard**
