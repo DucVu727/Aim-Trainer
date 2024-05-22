@@ -2,7 +2,7 @@
 ### A very simple game inspired by Dean "peppy" Herbert's osu!
 Welcome to a simple game I made for my university assignment about game coding using C++ and SDL library!
 ## Introduction
-I've had a strong passion for rhythm-based video games, especially a game called osu!, which introduced me to many banger music that gives me motivation to keep working, and this assignment gives me the best chance to try to recreate that has been an important part of my life.
+I've had a strong passion for rhythm-based video games, especially a game called osu!, which introduced me to many banger music that gives me motivation to keep working, and this assignment gives me the best chance to try to recreate the game that has been an important part of my life.
 ## Gameplay
 - The gameplay is as simple as aiming at the square and click it when they appear on the screen at a random location, and the game will end if the time between two clicks exceeds 0.727 seconds.
 - There is a **EVEN HARDER** mode implemented in the game that cuts down the area of the square to only 25% that of the original square. This will be the true test to your aiming skill. 
