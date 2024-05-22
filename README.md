@@ -14,8 +14,8 @@ I've had a strong passion for rhythm-based video games, especially a game called
 ## Future plans for this game
 - Improve the quality of all the resourcews like the square, the background, and the menu button, and also 
 - A click counter that indicated how many squares you have clicked.
-- My favourite musics that will makes you **addicted** to this game
-#**All of this will be added if I *somehow* figure out what is the cause of all the errors that prevents me from working with the SDL_image and SDL_ttf library**
+- My favourite musics that will makes you **addicted** to this game<br/>
+**All of this will be added if I *somehow* figure out what is the cause of all the errors that prevents me from working with the SDL_image and SDL_ttf library**
 ## Contributors
 - Dean "peppy" Herbert, for creating the game "osu!".
 - RobTop Games, for developing "Geometry Dash" and creates all the premade objects for me.
